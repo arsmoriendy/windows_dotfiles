@@ -1,0 +1,6 @@
+[git]
+  autoAdd = true
+
+[merge]
+  command = "nvim"
+  args = ["-d", "{{ .Destination }}", "{{ .Source }}"]
