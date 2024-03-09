@@ -1,0 +1,14 @@
+[core]
+	editor = nvim
+[alias]
+	l = log --graph --oneline
+	ll = log --graph
+	s = status
+	commitnm = commit --allow-empty-message -m ''
+[user]
+	email = nugrahasteven@gmail.com
+	name = arsmoriendy
+[diff]
+	tool = nvimdiff
+[merge]
+	tool = nvimdiff
