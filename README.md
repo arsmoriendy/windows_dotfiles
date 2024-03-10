@@ -8,3 +8,4 @@ Remember to enable symlink in windows by:
 6. On the `Local Security Setting` tab, click the `Add User or Group` or press uppercase `U`
 7. Enter your username and click `Check Names`
 8. Press Ok
+Also, set git `core.symlinks` config to true
